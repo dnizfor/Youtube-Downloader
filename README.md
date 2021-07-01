@@ -6,15 +6,16 @@ Youtube Downloader is an application that lets you download videos from YouTube.
  - Tested on Linux
 ```
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/dnizfor/Youtube-Downloader
+
 ```
 ```
 # Go into the repository
-$ cd 
+$ cd Youtube-Downloader
 ```
 ```
 # Run the app
-$ python3 dpy.py
+$ python3 downloader.py
 ```
 
 # Development
